@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: insurance
-          image: mowazzemali/insurance-project:1
+          image: mowazzemali/insurancedemo:1
           ports:
             - containerPort: 8081
           env:
